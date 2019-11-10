@@ -5,12 +5,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.sda.patterns</groupId>
-  <artifactId>singleton</artifactId>
+  <artifactId>examples</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>singleton</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+
+  <modules>
+    <module>singleton</module>
+    <module>factorymethod</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
